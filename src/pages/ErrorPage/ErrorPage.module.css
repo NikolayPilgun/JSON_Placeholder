@@ -1,0 +1,25 @@
+/* ErrorPage.module.css */
+.container {
+	text-align: center;
+	padding: 50px;
+}
+
+.title {
+	font-size: 36px;
+	color: #ff0000;
+}
+
+.message {
+	font-size: 18px;
+	margin: 20px 0;
+}
+
+.homeLink {
+	font-size: 16px;
+	color: #007bff;
+	text-decoration: none;
+}
+
+.homeLink:hover {
+	text-decoration: underline;
+}

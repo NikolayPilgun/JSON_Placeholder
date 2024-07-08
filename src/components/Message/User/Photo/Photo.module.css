@@ -1,0 +1,9 @@
+.photo {
+	flex-basis: 15%;
+
+	margin-bottom: 20px;
+}
+.image {
+	max-width: 200px;
+	height: 200px;
+}

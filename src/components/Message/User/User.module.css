@@ -1,0 +1,13 @@
+.container {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	gap: 20px;
+}
+
+.user {
+	flex-basis: 20%;
+	padding: 20px;
+	margin: 20px 0px;
+	border: 2px solid green;
+}

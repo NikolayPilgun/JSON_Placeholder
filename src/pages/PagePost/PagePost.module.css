@@ -1,0 +1,43 @@
+.container {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	padding: 20px;
+	font-family: Arial, sans-serif;
+}
+
+.loading {
+	font-size: 24px;
+	color: #007bff;
+}
+
+.error {
+	font-size: 24px;
+	color: #ff0000;
+}
+
+.photo,
+.user,
+.post {
+	border: 1px solid #ddd;
+	border-radius: 8px;
+	padding: 20px;
+	margin: 10px;
+	width: 80%;
+	max-width: 600px;
+	box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.photo img {
+	max-width: 100%;
+	height: auto;
+	border-radius: 8px;
+}
+
+h2 {
+	margin-top: 0;
+}
+
+p {
+	margin: 10px 0 0;
+}
